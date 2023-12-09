@@ -10,6 +10,7 @@ pom.xml.versionsBackup
 
 ### Node ###
 node_modules/
+node/
 package-lock.json
 
 ### STS (Spring Tool Suite) ###
