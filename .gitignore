@@ -1,0 +1,55 @@
+### Sistema Operacional ###
+.DS_Store
+Thumbs.db
+
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+### Node ###
+node_modules/
+package-lock.json
+
+### STS (Spring Tool Suite) ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Arquivos de Log ###
+*.log
+
+### Arquivos Temporários ###
+*.tmp
+*.bak
+*.swp
+
+### Arquivos de Ambiente ###
+.env
+.env.local
+
+### Outros ###
+HELP.md
+
+# Ignorar toda a pasta static
+src/main/resources/static/
