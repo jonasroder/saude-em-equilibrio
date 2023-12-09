@@ -4,7 +4,6 @@ on:
   push:
     branches: [ master ] # Mudança de 'main' para 'master' para corresponder ao seu workflow
 
-
 jobs:
   test-ssh-and-transfer:
     runs-on: ubuntu-latest
