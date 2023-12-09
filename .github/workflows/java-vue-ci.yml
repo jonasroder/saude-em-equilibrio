@@ -1,5 +1,4 @@
 name: Java and Vue CI
-
 on:
   push:
     branches: [ master ]
